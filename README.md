@@ -2,7 +2,7 @@
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ugusm7luv7m9slk4?svg=true)](https://ci.appveyor.com/project/Liaksej/ra-evets-state-layouts)
+[![Build status](https://ci.appveyor.com/api/projects/status/5ht9f2j0d0yy9dnj?svg=true)](https://ci.appveyor.com/project/Liaksej/ra-props-films)
 
 
 https://liaksej.github.io/ra-props-films/
